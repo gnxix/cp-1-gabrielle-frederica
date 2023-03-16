@@ -1,4 +1,4 @@
-package gabby
+package gabby.CP1
 
 data class ArrayOfNumchar (val index: Int, val value: Char)
 
